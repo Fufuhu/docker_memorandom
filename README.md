@@ -21,4 +21,5 @@ Dockerについてのメモを取り留めなく
     1. 新しいやり方(内部DNSを使う)
 1. イメージを作る
     1. Dockerfile
-    1. Dockerfileの基本的な書き
+    1. Dockerfileの基本的な書き方
+    
